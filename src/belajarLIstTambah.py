@@ -13,5 +13,7 @@ def main():
     inputValueAppend = input('Value : ')
     variableList.insert(inputKeyInsert,inputValueAppend)
     print(variableList)
+    variableList.extend([4,5])
+    print(variableList)
 if __name__ == "__main__":
     main()
