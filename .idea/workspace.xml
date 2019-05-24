@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17fdaef8-15b5-42a4-b3bf-98678e1a228a" name="Default Changelist" comment="" />
+    <list default="true" id="17fdaef8-15b5-42a4-b3bf-98678e1a228a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/belajarWhile.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/belajarWhile.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,17 +13,21 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/belajar$belajarSet.coverage" NAME="belajarSet Coverage Results" MODIFIED="1558621360217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/belajar$belajarModul.coverage" NAME="belajarModul Coverage Results" MODIFIED="1558669818517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$helloWorld.coverage" NAME="helloWorld Coverage Results" MODIFIED="1558598097931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarWriteFile.coverage" NAME="belajarWriteFile Coverage Results" MODIFIED="1558666594095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/belajar$belajarRange.coverage" NAME="belajarRange Coverage Results" MODIFIED="1558670163349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$inputString.coverage" NAME="inputString Coverage Results" MODIFIED="1558604173625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarRill.coverage" NAME="belajarRill Coverage Results" MODIFIED="1558605863291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$berlatihTambahDictionary.coverage" NAME="berlatihTambahDictionary Coverage Results" MODIFIED="1558614817152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belejarNull.coverage" NAME="belejarNull Coverage Results" MODIFIED="1558624199920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/belajar$belajarBreak.coverage" NAME="belajarBreak Coverage Results" MODIFIED="1558671872434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarIntegerString.coverage" NAME="belajarIntegerString Coverage Results" MODIFIED="1558605277943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarPerkalianReal.coverage" NAME="belajarPerkalianReal Coverage Results" MODIFIED="1558606519451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarMembandingkanString.coverage" NAME="belajarMembandingkanString Coverage Results" MODIFIED="1558610549322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarDictionary.coverage" NAME="belajarDictionary Coverage Results" MODIFIED="1558613634670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarPengulangan.coverage" NAME="belajarPengulangan Coverage Results" MODIFIED="1558663474011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/belajar$belajarExcept.coverage" NAME="belajarExcept Coverage Results" MODIFIED="1558667199031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarFile.coverage" NAME="belajarFile Coverage Results" MODIFIED="1558665583496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarRemoveList.coverage" NAME="belajarRemoveList Coverage Results" MODIFIED="1558618235455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarList.coverage" NAME="belajarList Coverage Results" MODIFIED="1558616643573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
@@ -28,14 +35,17 @@
     <SUITE FILE_PATH="coverage/belajar$belajarTuple.coverage" NAME="belajarTuple Coverage Results" MODIFIED="1558619591303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarMenghapusDictionary.coverage" NAME="belajarMenghapusDictionary Coverage Results" MODIFIED="1558615300151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarSetAdd.coverage" NAME="belajarSetAdd Coverage Results" MODIFIED="1558623152649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/belajar$belajarContinue.coverage" NAME="belajarContinue Coverage Results" MODIFIED="1558672032540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/belajarOOP" />
     <SUITE FILE_PATH="coverage/belajar$operatorRasional.coverage" NAME="operatorRasional Coverage Results" MODIFIED="1558628269933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/belajar$belajarWhile.coverage" NAME="belajarWhile Coverage Results" MODIFIED="1558671241409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarSubstring.coverage" NAME="belajarSubstring Coverage Results" MODIFIED="1558610976138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarListUpdate.coverage" NAME="belajarListUpdate Coverage Results" MODIFIED="1558618041532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$kerangkaPemograman.coverage" NAME="kerangkaPemograman Coverage Results" MODIFIED="1558598401490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarLogika.coverage" NAME="belajarLogika Coverage Results" MODIFIED="1558629348435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarRemoveSet.coverage" NAME="belajarRemoveSet Coverage Results" MODIFIED="1558623217839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarBitwise.coverage" NAME="belajarBitwise Coverage Results" MODIFIED="1558629840749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/belajar$belajarLIstTambah.coverage" NAME="belajarLIstTambah Coverage Results" MODIFIED="1558617571196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/belajar$belajarLIstTambah.coverage" NAME="belajarLIstTambah Coverage Results" MODIFIED="1558668780979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/belajar$belajarNestedLoop.coverage" NAME="belajarNestedLoop Coverage Results" MODIFIED="1558671642927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarEscape.coverage" NAME="belajarEscape Coverage Results" MODIFIED="1558608085582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarListMencari.coverage" NAME="belajarListMencari Coverage Results" MODIFIED="1558619049847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/belajar$belajarPemilihan.coverage" NAME="belajarPemilihan Coverage Results" MODIFIED="1558630675467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
@@ -57,26 +67,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="40" />
-          <entry key="txt" value="2" />
+          <entry key="py" value="51" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="40" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="8068" />
-          <entry key="txt" value="30" />
+          <entry key="dummy" value="8" />
+          <entry key="py" value="9713" />
+          <entry key="txt" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="30" />
-          <entry key="Python" value="8068" />
+          <entry key="PLAIN_TEXT" value="45" />
+          <entry key="Python" value="9713" />
         </counts>
       </usages-collector>
     </session>
@@ -84,13 +95,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/belajarExcept.py">
+        <entry file="file://$PROJECT_DIR$/src/belajarOOP/belajarContinue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="176">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding>
-                <marker date="1558666762934" expanded="true" signature="49:50" ph="..." />
-                <marker date="1558666762934" expanded="true" signature="49:51" ph="..." />
+                <marker date="1558672029918" expanded="true" signature="50:51" ph="..." />
+                <marker date="1558672029918" expanded="true" signature="50:136" ph="..." />
               </folding>
             </state>
           </provider>
@@ -126,7 +137,6 @@
         <option value="$PROJECT_DIR$/src/berlatihTambahDictionary.py" />
         <option value="$PROJECT_DIR$/src/belajarMenghapusDictionary.py" />
         <option value="$PROJECT_DIR$/src/belajarList.py" />
-        <option value="$PROJECT_DIR$/src/belajarLIstTambah.py" />
         <option value="$PROJECT_DIR$/src/belajarListUpdate.py" />
         <option value="$PROJECT_DIR$/src/belajarRemoveList.py" />
         <option value="$PROJECT_DIR$/src/belajarListMencari.py" />
@@ -150,6 +160,17 @@
         <option value="$PROJECT_DIR$/src/belajarWriteFile.py" />
         <option value="$PROJECT_DIR$/belajarExcept.py" />
         <option value="$PROJECT_DIR$/src/belajarExcept.py" />
+        <option value="$PROJECT_DIR$/src/myModul.py" />
+        <option value="$PROJECT_DIR$/src/__init__.py" />
+        <option value="$PROJECT_DIR$/src/belajarOOP/main.py" />
+        <option value="$PROJECT_DIR$/src/belajarLIstTambah.py" />
+        <option value="$PROJECT_DIR$/src/belajarModul.py" />
+        <option value="$PROJECT_DIR$/src/belajarRange.py" />
+        <option value="$PROJECT_DIR$/src/belajarWhile.py" />
+        <option value="$PROJECT_DIR$/src/belajarNestedLoop.py" />
+        <option value="$PROJECT_DIR$/src/belajarBreak.py" />
+        <option value="$PROJECT_DIR$/belajarContinue.py" />
+        <option value="$PROJECT_DIR$/src/belajarOOP/belajarContinue.py" />
       </list>
     </option>
   </component>
@@ -202,6 +223,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ilman\PycharmProjects\belajar\src\belajarOOP" />
       <recent name="C:\Users\ilman\PycharmProjects\belajar\src" />
     </key>
   </component>
@@ -217,8 +239,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.belajarWriteFile">
-    <configuration name="BelajarPemilihanElif" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.belajarContinue">
+    <configuration name="belajarBreak" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="belajar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,7 +253,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/BelajarPemilihanElif.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/belajarBreak.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="belajarFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="belajarContinue" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="belajar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,12 +270,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/belajarOOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/belajarFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/belajarOOP/belajarContinue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="belajarPemilihan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="belajarNestedLoop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="belajar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,7 +297,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/belajarPemilihan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/belajarNestedLoop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="belajarPengulangan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="belajarRange" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="belajar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,7 +319,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/belajarPengulangan.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/belajarRange.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,7 +328,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="belajarWriteFile" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="belajarWhile" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="belajar" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,7 +341,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/belajarWriteFile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/belajarWhile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,19 +351,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.belajarPemilihan" />
-      <item itemvalue="Python.BelajarPemilihanElif" />
-      <item itemvalue="Python.belajarPengulangan" />
-      <item itemvalue="Python.belajarFile" />
-      <item itemvalue="Python.belajarWriteFile" />
+      <item itemvalue="Python.belajarRange" />
+      <item itemvalue="Python.belajarWhile" />
+      <item itemvalue="Python.belajarNestedLoop" />
+      <item itemvalue="Python.belajarBreak" />
+      <item itemvalue="Python.belajarContinue" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.belajarWriteFile" />
-        <item itemvalue="Python.belajarFile" />
-        <item itemvalue="Python.belajarPengulangan" />
-        <item itemvalue="Python.BelajarPemilihanElif" />
-        <item itemvalue="Python.belajarPemilihan" />
+        <item itemvalue="Python.belajarContinue" />
+        <item itemvalue="Python.belajarBreak" />
+        <item itemvalue="Python.belajarNestedLoop" />
+        <item itemvalue="Python.belajarWhile" />
+        <item itemvalue="Python.belajarRange" />
       </list>
     </recent_temporary>
   </component>
@@ -356,18 +378,26 @@
       <option name="presentableId" value="Default" />
       <updated>1558597380817</updated>
     </task>
+    <task id="LOCAL-00001" summary="while">
+      <created>1558671063867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558671063867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.52011096" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.667129" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33142036" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32998565" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -384,12 +414,39 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.52011096" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33142036" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="while" />
+    <option name="LAST_COMMIT_MESSAGE" value="while" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/kerangkaPemograman.py">
@@ -494,13 +551,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/belajarLIstTambah.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -660,6 +710,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/belajarExcept.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <marker date="1558667195792" expanded="true" signature="49:50" ph="..." />
+            <marker date="1558667195792" expanded="true" signature="49:217" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -667,13 +728,104 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/belajarExcept.py">
+    <entry file="file://$PROJECT_DIR$/src/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mymodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding>
-            <marker date="1558666762934" expanded="true" signature="49:50" ph="..." />
-            <marker date="1558666762934" expanded="true" signature="49:51" ph="..." />
+            <marker date="1558667615609" expanded="true" signature="28:29" ph="..." />
+            <marker date="1558667615609" expanded="true" signature="28:76" ph="..." />
+            <marker date="1558667615609" expanded="true" signature="105:106" ph="..." />
+            <marker date="1558667615609" expanded="true" signature="105:153" ph="..." />
+            <marker date="1558667615609" expanded="true" signature="179:180" ph="..." />
+            <marker date="1558667615609" expanded="true" signature="179:227" ph="..." />
+            <marker date="1558667615609" expanded="true" signature="253:254" ph="..." />
+            <marker date="1558667615609" expanded="true" signature="253:301" ph="..." />
+            <marker date="1558667615609" expanded="true" signature="331:332" ph="..." />
+            <marker date="1558667615609" expanded="true" signature="331:336" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/belajarOOP/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/belajarLIstTambah.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/belajarModul.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding>
+            <marker date="1558669815692" expanded="true" signature="31:32" ph="..." />
+            <marker date="1558669815692" expanded="true" signature="31:218" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/belajarRange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <marker date="1558670160412" expanded="true" signature="50:51" ph="..." />
+            <marker date="1558670160412" expanded="true" signature="50:194" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/belajarWhile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding>
+            <marker date="1558671237920" expanded="true" signature="50:51" ph="..." />
+            <marker date="1558671237920" expanded="true" signature="50:191" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/belajarNestedLoop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <marker date="1558671640181" expanded="true" signature="50:51" ph="..." />
+            <marker date="1558671640181" expanded="true" signature="50:186" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/belajarBreak.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <marker date="1558671867948" expanded="true" signature="50:51" ph="..." />
+            <marker date="1558671867948" expanded="true" signature="50:132" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/belajarOOP/belajarContinue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <marker date="1558672029918" expanded="true" signature="50:51" ph="..." />
+            <marker date="1558672029918" expanded="true" signature="50:136" ph="..." />
           </folding>
         </state>
       </provider>
